@@ -1,0 +1,12 @@
+Nombre: Julian
+Nacionalidad: Colombia
+Edad: 19
+
+Nombre: Luisa
+Nacionalidad: Colombiana
+Edad: 19
+
+Nombre: Jerferson
+Nacionalidad: colombiana
+Edad: 22
+
