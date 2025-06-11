@@ -1,0 +1,6 @@
+ID: 1
+Título: Titanic
+Género: romance
+Páginas: 223
+Año: 2013
+
